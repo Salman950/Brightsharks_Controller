@@ -1,4 +1,4 @@
-% While closing the project, save tje work and refresh all simulink
+% While closing the project, save the work and refresh all simulink
 % customizations to default
 
 %% Rest Simulink Customization
